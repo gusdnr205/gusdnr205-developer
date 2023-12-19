@@ -49,26 +49,24 @@ const Profile = () => {
             </div>
             <div className="w-[100%] box-border md:w-[70%] md:p-[10px] ">
                 <Hero>
-                    곽인구 <span className="text-[16px] text-slate-400 font-normal">web7722</span>
+                    정현욱 <span className="text-[16px] text-slate-400 font-normal">gusdnr205</span>
                 </Hero>
-                <p className="text-slate-700 pt-[5px] md:text-[24px] md:pt-[10px] text-[16px]">
-                    아주 작은 개발자가 될거야
-                </p>
+                <p className="text-slate-700 pt-[5px] md:text-[24px] md:pt-[10px] text-[16px]">멋진 개발자가될거야</p>
                 <p className="flex flex-col text-[16px] items-left pt-[7px] md:pt-[5px] md:text-[14px]">
                     <a href="mailto:web7722@gmail.com" className="flex items-center gap-[5px] text-slate-600">
                         <TfiEmail />
-                        web7722@gmail.com
+                        gusdnr205@gmail.com
+                    </a>
+                    <a href="https://github.com/gusdnr205" className="flex items-center gap-[5px] text-slate-600">
+                        <IoLogoGithub />
+                        github.com/gusdnr205
                     </a>
                     <a
-                        href="https://github.com/ingoo-blockchain?tab=repositories"
+                        href="https://hyunwookthishere.tistory.com/"
                         className="flex items-center gap-[5px] text-slate-600"
                     >
-                        <IoLogoGithub />
-                        ingoo-blockchain
-                    </a>
-                    <a href="https://tistory.com" className="flex items-center gap-[5px] text-slate-600">
                         <FaBlogger />
-                        blog...
+                        https://hyunwookthishere.tistory.com
                     </a>
                 </p>
             </div>
