@@ -286,8 +286,7 @@ const Projects = () => {
                         </h2>
 
                         <p className="leading-5 text-slate-950 text-[12px] md:text-[16px] md:leading-7">
-                            내가 어디 회사랑 협약을 했는데 말이야~ 와 좀만 젊었어도 다 해결했을텐데 말야~ 진짜
-                            어쩌구저쩌구 궁시렁 궁시렁 진짜 해줄거 다해줬는데 안해주네~~~
+                            바닐라 js를 이용해서 만든프로젝트이다.
                         </p>
 
                         <h3 className="py-[16px] text-[16px] font-bold">사용 스택</h3>
