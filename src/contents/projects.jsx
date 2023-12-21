@@ -210,15 +210,17 @@ const Projects = () => {
                     <div className="w-full">
                         <h2 className="flex flex-row items-center gap-[8px] text-[16px] text-slate-800 md:text-black md:text-[24px] font-semibold pb-[16px]">
                             모나미(그림 일심동체) <a>팝업 열기</a>
-                            <a href="http://3.39.189.21/main"></a>
-                            <button
+                            <a href="http://3.39.189.21/main">
+                                <FaExternalLinkAlt />
+                            </a>
+                            {/* <button
                                 onClick={toggleModal33}
                                 className="px-[16px] py-[8px] bg-gray-800 rounded-[8px] text-white hover:bg-gray-950"
                             >
                                 <p>
                                     <FaExternalLinkAlt />
                                 </p>
-                            </button>
+                            </button> */}
                         </h2>
 
                         <p className="leading-5 text-slate-950 text-[12px] md:text-[16px] md:leading-7">
