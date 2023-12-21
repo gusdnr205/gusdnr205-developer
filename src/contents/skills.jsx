@@ -56,8 +56,6 @@ const Skills = () => {
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
                                 <li>interface를 통하여 객체의 타입을 지정하였습니다.</li>
                                 <li>extends를 통하여 기존 인터페이스를 상속받아 확장시켰습니다.</li>
-                                <li></li>
-                                <li></li>
                             </ul>
                         </li>
                     </ul>

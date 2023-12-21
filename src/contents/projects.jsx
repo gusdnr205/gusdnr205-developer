@@ -322,7 +322,8 @@ const Projects = () => {
                 <ExternalLink link="https://www.bouncexplorer.site/" />
             </Modal>
             <Modal show={isShowingModal33} onCloseButtonClick={toggleModal33}>
-                <ExternalLink link="http://3.39.189.21/main" />
+                {/* <ExternalLink link="http://3.39.189.21/main" /> */}
+                <a href="http://3.39.189.21/main"></a>
             </Modal>
             <Modal show={isShowingModal44} onCloseButtonClick={toggleModal44}>
                 <ExternalLink link="https://www.bouncexplorer.site/" />
