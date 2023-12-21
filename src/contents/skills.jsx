@@ -37,7 +37,7 @@ const Skills = () => {
                                 <span className="md:w-[120px]">Javascript</span>
                             </span>
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
-                                <li>변수 선언을 위한 var,let,const의 차이를 알고 목적에 맞게 사용했습니다.</li>
+                                <li>변수 선언을 위한 var,let,const의 차이를 실행컨텍스트로 이해했습니다.</li>
                                 <li>연산자를 활용하여 코드를 짧고 효율적으로 작성하였습니다.</li>
                                 <li>try,catch문을 활용하여 에러처리를 했습니다.</li>
                                 <li>
@@ -56,11 +56,8 @@ const Skills = () => {
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
                                 <li>interface를 통하여 객체의 타입을 지정하였습니다.</li>
                                 <li>extends를 통하여 기존 인터페이스를 상속받아 확장시켰습니다.</li>
-                                <li>
-                                    제네릭타입을 사용하여 커스텀훅과 같이 재사용이 가능한 훅을 더 효율적으로 처리
-                                    하였습니다.
-                                </li>
-                                <li>타입 가드를 사용하여 두개의 타입을 가진 변수를 효율적으로 처리하였습니다.</li>
+                                <li></li>
+                                <li></li>
                             </ul>
                         </li>
                     </ul>
@@ -114,7 +111,7 @@ const Skills = () => {
                                 <li>최대한 RestFul하게 설계하려 노력하였습니다.</li>
                                 <li>Model,Controller로 웹서버의 요청을 받아 데이터를 처리 하였습니다.</li>
                                 <li>JWT 토큰을 발행하여 자동로그인을 만들어 보았습니다.</li>
-                                <li>cors 에러를 express의 cors로 해결한적이 있습니다.</li>
+                                <li>도메인간의 cors 에러를 해결해본적있습니다.</li>
                             </ul>
                         </li>
                         <div className="  w-11/12   border-[1px] border-gray" />
@@ -134,8 +131,8 @@ const Skills = () => {
                                 </div>
                             </span>
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
-                                <li>ORM의 개념을 알고 데이터베이스를 관리하였습니다.</li>
-                                <li>Primary Key ,Foreign Key의 개념을 숙지하고 1:1,1:N 테이블을 만들었습니다.</li>
+                                <li>ORM의 개념을 알고 데이터베이스를 설계했습니다.</li>
+                                <li>Primary Key ,Foreign Key의 개념을 숙지하고 1:1,N:N 테이블을 만들었습니다.</li>
                             </ul>
                         </li>
                     </ul>
@@ -157,7 +154,7 @@ const Skills = () => {
                                 </div>
                             </span>
                             <ul className="list-disc list-outside leading-6 px-[20px] md:leading-8 text-[12px] md:text-[16px] ">
-                                <li>EC2 로 react와 nodeJS를 한 인스턴스에 배포한 경험이 있습니다.</li>
+                                <li>EC2 로 nodeJS를 배포한 경험이 있습니다.</li>
                                 <li>가비아에서 도메인을 구입하여 연결한 경험이 있습니다.</li>
                                 <li>http와 https의 프로토콜 차이를 숙지하고 certBot으로 ssl인증서를 발급받았습니다.</li>
                                 <li>
